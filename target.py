@@ -87,5 +87,5 @@ GeoJson(
 ).add_to(m)
 
 # Save the map to an HTML file
-m.save("clients_by_zip_code_with_counties.html")
+m.save("index.html")
 print("Map has been created and saved as 'clients_by_zip_code_with_counties.html'.")
